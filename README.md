@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sales Revenue Analysis (Superstore)
 
 Tools: MySQL, Python (Pandas, Matplotlib, Seaborn), Power BI
@@ -8,3 +9,7 @@ Steps:
 3. Run python/load_to_mysql.py to upload data to MySQL
 4. Run python/eda.py for aggregated CSVs and plots
 5. Open Power BI Desktop → Get Data → MySQL → build dashboard and add slicer
+=======
+# sales_revenue_dashboard
+ “Interactive sales dashboard with EDA on Superstore dataset using Python, MySQL &amp; Power BI”
+>>>>>>> 4b8434fbfadf8b65b3396f23bd36921a2e28fb75
