@@ -1,5 +1,6 @@
-<<<<<<< HEAD
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/e6203a42-61d1-401b-bdf9-25193925d7d0" />
 
+Sales Revenue Dashboard
 Project Overview
 This project involves developing an interactive sales dashboard for a Superstore dataset. The dashboard provides insights into revenue trends, sales performance, and category-wise analysis. The project also includes comprehensive Exploratory Data Analysis (EDA) to uncover patterns, outliers, and data-driven insights.
 
@@ -22,7 +23,3 @@ Steps:
 3. Run python/load_to_mysql.py to upload data to MySQL
 4. Run python/eda.py for aggregated CSVs and plots
 5. Open Power BI Desktop → Get Data → MySQL → build dashboard and add slicer
-=======
-sales_revenue_dashboard
- “Interactive sales dashboard with EDA on Superstore dataset using Python, MySQL &amp; Power BI”
->>>>>>> 4b8434fbfadf8b65b3396f23bd36921a2e28fb75
